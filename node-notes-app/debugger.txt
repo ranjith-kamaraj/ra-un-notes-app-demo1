@@ -1,0 +1,11 @@
+DEUG mode:
+
+1. Using console we can debug the code
+2. Using 'debugger' we can do
+   - Put 'debugger' word in file
+   - node inspect app.js --title="Test" --body="Calling"
+   
+   - open the chrome with: chrome://inspect
+   - check the flow
+
+   - give 'restart' in terminal to re-run it
